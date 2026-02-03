@@ -11,6 +11,10 @@
 
 An **AI-first esports analytics platform** that uses Large Language Models to analyze Cloud9's VALORANT performance data and generate comprehensive coaching insights. Built for **100% frontend deployment** with zero backend dependencies.
 
+## 📊 Data Source
+
+The cached data used in this frontend is obtained from the separate backend component available at [Vantage_Point](https://github.com/AnkitDash-code/Vantage_Point). This repository contains the code for data collection and processing using the **AG Grid API**, which was a mandatory requirement for this project. The frontend is separate and optimized for LLM integration.
+
 ### ✨ Key Features
 
 - 🤖 **LLM-Powered Analysis** - GPT-OSS-120B model via Groq API for intelligent insights
