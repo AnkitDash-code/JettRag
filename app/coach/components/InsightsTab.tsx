@@ -220,9 +220,9 @@ export default function InsightsTab({
                 Critical Issues
               </div>
               <div className="text-3xl font-bold text-red-400 mt-2">
-                {Object.values(insights.insights).reduce(
+                {(Object.values(insights.insights) as Insight[][]).reduce(
                   (sum, arr) =>
-                    sum + arr.filter((i) => i.severity === "critical").length,
+                    sum + arr.filter((i: Insight) => i.severity === "critical").length,
                   0
                 )}
               </div>
