@@ -1,0 +1,1336 @@
+{
+  "team_name": "Cloud9",
+  "matches_analyzed": 20,
+  "metrics": 
+{
+  "win_rate": 51.1,
+  "win_rate_by_map": {
+    "Ascent": 38.1,
+    "Bind": 92.9,
+    "Corrode": 41.0,
+    "Haven": 54.2,
+    "Icebox": 56.2,
+    "Lotus": 48.7
+  },
+  "agent_composition": [
+    {
+      "agent": "viper",
+      "pick_count": 19,
+      "pick_rate": 19.0
+    },
+    {
+      "agent": "omen",
+      "pick_count": 17,
+      "pick_rate": 17.0
+    },
+    {
+      "agent": "vyse",
+      "pick_count": 13,
+      "pick_rate": 13.0
+    },
+    {
+      "agent": "skye",
+      "pick_count": 10,
+      "pick_rate": 10.0
+    },
+    {
+      "agent": "raze",
+      "pick_count": 8,
+      "pick_rate": 8.0
+    }
+  ],
+  "role_distribution": {
+    "Controller": 37.0,
+    "Duelist": 22.0,
+    "Sentinel": 21.0,
+    "Initiator": 20.0
+  },
+  "economy": {
+    "eco": 35.0,
+    "force": 20.0,
+    "full": 45.0
+  },
+  "opponent_stats": [
+    {
+      "opponent": "Sentinels",
+      "matches": 5,
+      "rounds_played": 108,
+      "rounds_won": 47,
+      "win_rate": 43.5
+    },
+    {
+      "opponent": "NRG",
+      "matches": 3,
+      "rounds_played": 61,
+      "rounds_won": 25,
+      "win_rate": 41.0
+    },
+    {
+      "opponent": "Leviat\u00e1n Esports",
+      "matches": 3,
+      "rounds_played": 70,
+      "rounds_won": 36,
+      "win_rate": 51.4
+    },
+    {
+      "opponent": "100 Thieves",
+      "matches": 2,
+      "rounds_played": 48,
+      "rounds_won": 27,
+      "win_rate": 56.2
+    },
+    {
+      "opponent": "G2 Esports",
+      "matches": 2,
+      "rounds_played": 43,
+      "rounds_won": 17,
+      "win_rate": 39.5
+    },
+    {
+      "opponent": "2GAME eSports",
+      "matches": 2,
+      "rounds_played": 34,
+      "rounds_won": 26,
+      "win_rate": 76.5
+    },
+    {
+      "opponent": "Evil Geniuses",
+      "matches": 2,
+      "rounds_played": 43,
+      "rounds_won": 26,
+      "win_rate": 60.5
+    },
+    {
+      "opponent": "FURIA",
+      "matches": 1,
+      "rounds_played": 18,
+      "rounds_won": 13,
+      "win_rate": 72.2
+    }
+  ],
+  "round_type_performance": {
+    "pistol": {
+      "rounds": 40,
+      "wins": 19,
+      "win_rate": 47.5
+    },
+    "eco": {
+      "rounds": 79,
+      "wins": 41,
+      "win_rate": 51.9
+    },
+    "force": {
+      "rounds": 114,
+      "wins": 59,
+      "win_rate": 51.8
+    },
+    "full_buy": {
+      "rounds": 193,
+      "wins": 98,
+      "win_rate": 50.8
+    }
+  },
+  "player_tendencies": [
+    {
+      "player": "OXY",
+      "matches_played": 20,
+      "top_agent": "raze",
+      "top_agent_rate": 40.0,
+      "avg_kills": 19.1,
+      "avg_deaths": 15.8,
+      "avg_assists": 3.5,
+      "kd_ratio": 1.21,
+      "avg_acs": null,
+      "first_kill_rate": 19.2
+    },
+    {
+      "player": "Xeppaa",
+      "matches_played": 20,
+      "top_agent": "vyse",
+      "top_agent_rate": 65.0,
+      "avg_kills": 14.2,
+      "avg_deaths": 14.9,
+      "avg_assists": 5.8,
+      "kd_ratio": 0.95,
+      "avg_acs": null,
+      "first_kill_rate": 6.6
+    },
+    {
+      "player": "mitch",
+      "matches_played": 20,
+      "top_agent": "skye",
+      "top_agent_rate": 50.0,
+      "avg_kills": 12.3,
+      "avg_deaths": 14.2,
+      "avg_assists": 8.3,
+      "kd_ratio": 0.87,
+      "avg_acs": null,
+      "first_kill_rate": 5.6
+    },
+    {
+      "player": "neT",
+      "matches_played": 20,
+      "top_agent": "viper",
+      "top_agent_rate": 95.0,
+      "avg_kills": 12.4,
+      "avg_deaths": 14.2,
+      "avg_assists": 5.5,
+      "kd_ratio": 0.88,
+      "avg_acs": null,
+      "first_kill_rate": 7.5
+    },
+    {
+      "player": "v1c",
+      "matches_played": 20,
+      "top_agent": "omen",
+      "top_agent_rate": 85.0,
+      "avg_kills": 15.1,
+      "avg_deaths": 14.3,
+      "avg_assists": 8.0,
+      "kd_ratio": 1.05,
+      "avg_acs": null,
+      "first_kill_rate": 9.2
+    }
+  ],
+  "site_preferences": {
+    "C": 29.4,
+    "A": 41.2,
+    "B": 29.4
+  },
+  "pistol_site_preferences": {},
+  "aggression": {
+    "style": "Slow/Default",
+    "avg_duration": 148.5,
+    "rush_rate": 0.0
+  },
+  "recent_compositions": {
+    "overall": [
+      {
+        "composition": [
+          "jett",
+          "killjoy",
+          "omen",
+          "skye",
+          "viper"
+        ],
+        "matches": 5,
+        "pick_rate": 25.0
+      },
+      {
+        "composition": [
+          "fade",
+          "neon",
+          "omen",
+          "viper",
+          "vyse"
+        ],
+        "matches": 4,
+        "pick_rate": 20.0
+      },
+      {
+        "composition": [
+          "fade",
+          "omen",
+          "raze",
+          "viper",
+          "vyse"
+        ],
+        "matches": 3,
+        "pick_rate": 15.0
+      }
+    ],
+    "by_map": {
+      "ascent": [
+        {
+          "composition": [
+            "deadlock",
+            "omen",
+            "sova",
+            "vyse",
+            "yoru"
+          ],
+          "matches": 1,
+          "pick_rate": 100.0
+        }
+      ],
+      "bind": [
+        {
+          "composition": [
+            "brimstone",
+            "raze",
+            "skye",
+            "viper",
+            "vyse"
+          ],
+          "matches": 1,
+          "pick_rate": 100.0
+        }
+      ],
+      "corrode": [
+        {
+          "composition": [
+            "omen",
+            "raze",
+            "skye",
+            "viper",
+            "vyse"
+          ],
+          "matches": 2,
+          "pick_rate": 66.7
+        },
+        {
+          "composition": [
+            "neon",
+            "omen",
+            "skye",
+            "viper",
+            "vyse"
+          ],
+          "matches": 1,
+          "pick_rate": 33.3
+        }
+      ],
+      "haven": [
+        {
+          "composition": [
+            "jett",
+            "killjoy",
+            "omen",
+            "skye",
+            "viper"
+          ],
+          "matches": 5,
+          "pick_rate": 83.3
+        },
+        {
+          "composition": [
+            "neon",
+            "omen",
+            "skye",
+            "viper",
+            "vyse"
+          ],
+          "matches": 1,
+          "pick_rate": 16.7
+        }
+      ],
+      "icebox": [
+        {
+          "composition": [
+            "iso",
+            "killjoy",
+            "raze",
+            "sova",
+            "viper"
+          ],
+          "matches": 2,
+          "pick_rate": 100.0
+        }
+      ],
+      "lotus": [
+        {
+          "composition": [
+            "fade",
+            "neon",
+            "omen",
+            "viper",
+            "vyse"
+          ],
+          "matches": 4,
+          "pick_rate": 57.1
+        },
+        {
+          "composition": [
+            "fade",
+            "omen",
+            "raze",
+            "viper",
+            "vyse"
+          ],
+          "matches": 3,
+          "pick_rate": 42.9
+        }
+      ]
+    },
+    "most_recent": [
+      "neon",
+      "omen",
+      "skye",
+      "viper",
+      "vyse"
+    ]
+  },
+  "map_detailed": {
+    "Haven": {
+      "rounds_played": 132,
+      "rounds_won": 71,
+      "win_rate": 53.8,
+      "attack_rounds": 68,
+      "attack_wins": 45,
+      "attack_win_rate": 66.2,
+      "defense_rounds": 64,
+      "defense_wins": 26,
+      "defense_win_rate": 40.6,
+      "top_agent": "Omen"
+    },
+    "Corrode": {
+      "rounds_played": 61,
+      "rounds_won": 25,
+      "win_rate": 41.0,
+      "attack_rounds": 35,
+      "attack_wins": 11,
+      "attack_win_rate": 31.4,
+      "defense_rounds": 26,
+      "defense_wins": 14,
+      "defense_win_rate": 53.8,
+      "top_agent": "Omen"
+    },
+    "Lotus": {
+      "rounds_played": 150,
+      "rounds_won": 73,
+      "win_rate": 48.7,
+      "attack_rounds": 79,
+      "attack_wins": 40,
+      "attack_win_rate": 50.6,
+      "defense_rounds": 71,
+      "defense_wins": 33,
+      "defense_win_rate": 46.5,
+      "top_agent": "Omen"
+    },
+    "Icebox": {
+      "rounds_played": 48,
+      "rounds_won": 27,
+      "win_rate": 56.2,
+      "attack_rounds": 23,
+      "attack_wins": 12,
+      "attack_win_rate": 52.2,
+      "defense_rounds": 25,
+      "defense_wins": 15,
+      "defense_win_rate": 60.0,
+      "top_agent": "Iso"
+    },
+    "Ascent": {
+      "rounds_played": 21,
+      "rounds_won": 8,
+      "win_rate": 38.1,
+      "attack_rounds": 9,
+      "attack_wins": 2,
+      "attack_win_rate": 22.2,
+      "defense_rounds": 12,
+      "defense_wins": 6,
+      "defense_win_rate": 50.0,
+      "top_agent": "Omen"
+    },
+    "Bind": {
+      "rounds_played": 14,
+      "rounds_won": 13,
+      "win_rate": 92.9,
+      "attack_rounds": 2,
+      "attack_wins": 2,
+      "attack_win_rate": 100.0,
+      "defense_rounds": 12,
+      "defense_wins": 11,
+      "defense_win_rate": 91.7,
+      "top_agent": "Brimstone"
+    }
+  },
+  "first_duel": {
+    "team_first_kill_rate": 48.1,
+    "first_kill_conversion_rate": 73.2,
+    "avg_time_to_first_kill": 100.0,
+    "top_first_kill_players": [
+      {
+        "player": "OXY",
+        "first_kills": 82,
+        "first_kill_rate": 19.2
+      },
+      {
+        "player": "v1c",
+        "first_kills": 39,
+        "first_kill_rate": 9.2
+      },
+      {
+        "player": "neT",
+        "first_kills": 32,
+        "first_kill_rate": 7.5
+      },
+      {
+        "player": "Xeppaa",
+        "first_kills": 28,
+        "first_kill_rate": 6.6
+      },
+      {
+        "player": "mitch",
+        "first_kills": 24,
+        "first_kill_rate": 5.6
+      }
+    ],
+    "top_first_kill_weapons": [
+      {
+        "weapon": "vandal",
+        "first_kills": 58,
+        "first_kill_rate": 13.6
+      },
+      {
+        "weapon": "phantom",
+        "first_kills": 57,
+        "first_kill_rate": 13.4
+      },
+      {
+        "weapon": "classic",
+        "first_kills": 12,
+        "first_kill_rate": 2.8
+      }
+    ]
+  },
+  "pistol_rounds": {
+    "overall": {
+      "rounds": 40,
+      "wins": 19,
+      "win_rate": 47.5,
+      "first_kill_rate": 47.5
+    },
+    "by_side": {
+      "attacker": {
+        "rounds": 20,
+        "wins": 9,
+        "win_rate": 45.0,
+        "first_kill_rate": 30.0
+      },
+      "defender": {
+        "rounds": 20,
+        "wins": 10,
+        "win_rate": 50.0,
+        "first_kill_rate": 65.0
+      }
+    }
+  },
+  "combat": {
+    "trade_efficiency": 39.2,
+    "trade_kills": 575,
+    "trade_opportunities": 1467,
+    "multi_killers": [
+      {
+        "player": "OXY",
+        "2k": 61,
+        "3k": 27,
+        "4k": 8,
+        "5k": 1,
+        "total": 97
+      },
+      {
+        "player": "v1c",
+        "2k": 65,
+        "3k": 11,
+        "4k": 2,
+        "5k": 0,
+        "total": 78
+      },
+      {
+        "player": "Xeppaa",
+        "2k": 51,
+        "3k": 16,
+        "4k": 1,
+        "5k": 0,
+        "total": 68
+      },
+      {
+        "player": "neT",
+        "2k": 48,
+        "3k": 6,
+        "4k": 3,
+        "5k": 0,
+        "total": 57
+      },
+      {
+        "player": "mitch",
+        "2k": 43,
+        "3k": 10,
+        "4k": 3,
+        "5k": 0,
+        "total": 56
+      }
+    ],
+    "clutch_performers": [
+      {
+        "player": "Xeppaa",
+        "clutches_faced": 50,
+        "clutches_won": 12,
+        "clutch_rate": 24.0
+      },
+      {
+        "player": "neT",
+        "clutches_faced": 46,
+        "clutches_won": 10,
+        "clutch_rate": 21.7
+      },
+      {
+        "player": "OXY",
+        "clutches_faced": 37,
+        "clutches_won": 7,
+        "clutch_rate": 18.9
+      },
+      {
+        "player": "mitch",
+        "clutches_faced": 32,
+        "clutches_won": 7,
+        "clutch_rate": 21.9
+      },
+      {
+        "player": "v1c",
+        "clutches_faced": 50,
+        "clutches_won": 6,
+        "clutch_rate": 12.0
+      }
+    ],
+    "opening_duels": [
+      {
+        "player": "OXY",
+        "opening_wins": 82,
+        "opening_losses": 69,
+        "opening_duel_rate": 54.3
+      },
+      {
+        "player": "v1c",
+        "opening_wins": 39,
+        "opening_losses": 31,
+        "opening_duel_rate": 55.7
+      },
+      {
+        "player": "neT",
+        "opening_wins": 32,
+        "opening_losses": 47,
+        "opening_duel_rate": 40.5
+      },
+      {
+        "player": "Xeppaa",
+        "opening_wins": 28,
+        "opening_losses": 25,
+        "opening_duel_rate": 52.8
+      },
+      {
+        "player": "mitch",
+        "opening_wins": 24,
+        "opening_losses": 48,
+        "opening_duel_rate": 33.3
+      }
+    ],
+    "weapon_effectiveness": [
+      {
+        "weapon": "phantom",
+        "kills": 535,
+        "deaths": 558,
+        "kd_ratio": 0.96
+      },
+      {
+        "weapon": "vandal",
+        "kills": 392,
+        "deaths": 306,
+        "kd_ratio": 1.28
+      },
+      {
+        "weapon": "bulldog",
+        "kills": 89,
+        "deaths": 38,
+        "kd_ratio": 2.34
+      },
+      {
+        "weapon": "classic",
+        "kills": 86,
+        "deaths": 86,
+        "kd_ratio": 1.0
+      },
+      {
+        "weapon": "ghost",
+        "kills": 81,
+        "deaths": 75,
+        "kd_ratio": 1.08
+      },
+      {
+        "weapon": "sheriff",
+        "kills": 55,
+        "deaths": 86,
+        "kd_ratio": 0.64
+      },
+      {
+        "weapon": "stinger",
+        "kills": 44,
+        "deaths": 79,
+        "kd_ratio": 0.56
+      },
+      {
+        "weapon": "guardian",
+        "kills": 32,
+        "deaths": 50,
+        "kd_ratio": 0.64
+      },
+      {
+        "weapon": "outlaw",
+        "kills": 21,
+        "deaths": 26,
+        "kd_ratio": 0.81
+      },
+      {
+        "weapon": "shorty",
+        "kills": 18,
+        "deaths": 15,
+        "kd_ratio": 1.2
+      }
+    ],
+    "total_kills_analyzed": 2931
+  },
+  "economy_advanced": {
+    "average_economy": 3745.0,
+    "eco_round_percentage": 30.0,
+    "force_round_percentage": 25.0,
+    "full_buy_percentage": 45.0,
+    "economy_trend": "stable"
+  },
+  "map_control": {
+    "site_success_rates": {
+      "haven": {
+        "C": 78.1,
+        "A": 78.6,
+        "B": 81.8
+      },
+      "corrode": {
+        "B": 50.0,
+        "A": 50.0
+      },
+      "lotus": {
+        "A": 76.7,
+        "B": 42.9,
+        "C": 52.4
+      },
+      "icebox": {
+        "B": 66.7,
+        "A": 75.0
+      },
+      "ascent": {
+        "B": 100.0,
+        "A": 0.0
+      },
+      "bind": {
+        "A": 100.0
+      }
+    },
+    "avg_plant_time": 110.0,
+    "plant_style": "Late Execute",
+    "total_plants": 166
+  },
+  "side_performance": {
+    "attack": {
+      "rounds": 216,
+      "wins": 112,
+      "win_rate": 51.9,
+      "kills": 727,
+      "deaths": 777,
+      "kd_ratio": 0.94
+    },
+    "defense": {
+      "rounds": 210,
+      "wins": 105,
+      "win_rate": 50.0,
+      "kills": 737,
+      "deaths": 690,
+      "kd_ratio": 1.07
+    }
+  },
+  "pace": {
+    "style": "Slow/Late Execute",
+    "avg_plant_time": 110.0,
+    "histogram": {
+      "rush": {
+        "count": 0,
+        "percent": 0.0
+      },
+      "default": {
+        "count": 16,
+        "percent": 9.6
+      },
+      "late": {
+        "count": 150,
+        "percent": 90.4
+      }
+    },
+    "by_map": {
+      "haven": {
+        "avg_time": 115.2,
+        "rush_percent": 0.0,
+        "default_percent": 10.5,
+        "late_percent": 89.5,
+        "total_plants": 57
+      },
+      "corrode": {
+        "avg_time": 102.7,
+        "rush_percent": 0.0,
+        "default_percent": 9.1,
+        "late_percent": 90.9,
+        "total_plants": 22
+      },
+      "lotus": {
+        "avg_time": 107.7,
+        "rush_percent": 0.0,
+        "default_percent": 10.8,
+        "late_percent": 89.2,
+        "total_plants": 65
+      },
+      "icebox": {
+        "avg_time": 111.1,
+        "rush_percent": 0.0,
+        "default_percent": 0.0,
+        "late_percent": 100.0,
+        "total_plants": 17
+      },
+      "ascent": {
+        "avg_time": 85.8,
+        "rush_percent": 0.0,
+        "default_percent": 33.3,
+        "late_percent": 66.7,
+        "total_plants": 3
+      },
+      "bind": {
+        "avg_time": 143.1,
+        "rush_percent": 0.0,
+        "default_percent": 0.0,
+        "late_percent": 100.0,
+        "total_plants": 2
+      }
+    },
+    "attack_first_damage_avg": 89.4,
+    "defense_first_damage_avg": 92.8,
+    "total_plants_analyzed": 166
+  },
+  "site_bias": {
+    "by_map": {
+      "Haven": {
+        "C": {
+          "attempts": 32,
+          "wins": 25,
+          "win_rate": 78.1,
+          "preference": 56.1
+        },
+        "A": {
+          "attempts": 14,
+          "wins": 11,
+          "win_rate": 78.6,
+          "preference": 24.6
+        },
+        "B": {
+          "attempts": 11,
+          "wins": 9,
+          "win_rate": 81.8,
+          "preference": 19.3
+        }
+      },
+      "Corrode": {
+        "B": {
+          "attempts": 12,
+          "wins": 6,
+          "win_rate": 50.0,
+          "preference": 54.5
+        },
+        "A": {
+          "attempts": 10,
+          "wins": 5,
+          "win_rate": 50.0,
+          "preference": 45.5
+        }
+      },
+      "Lotus": {
+        "A": {
+          "attempts": 30,
+          "wins": 23,
+          "win_rate": 76.7,
+          "preference": 46.2
+        },
+        "B": {
+          "attempts": 14,
+          "wins": 6,
+          "win_rate": 42.9,
+          "preference": 21.5
+        },
+        "C": {
+          "attempts": 21,
+          "wins": 11,
+          "win_rate": 52.4,
+          "preference": 32.3
+        }
+      },
+      "Icebox": {
+        "B": {
+          "attempts": 9,
+          "wins": 6,
+          "win_rate": 66.7,
+          "preference": 52.9
+        },
+        "A": {
+          "attempts": 8,
+          "wins": 6,
+          "win_rate": 75.0,
+          "preference": 47.1
+        }
+      },
+      "Ascent": {
+        "B": {
+          "attempts": 2,
+          "wins": 2,
+          "win_rate": 100.0,
+          "preference": 66.7
+        },
+        "A": {
+          "attempts": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "preference": 33.3
+        }
+      },
+      "Bind": {
+        "A": {
+          "attempts": 2,
+          "wins": 2,
+          "win_rate": 100.0,
+          "preference": 100.0
+        }
+      }
+    },
+    "insights": []
+  },
+  "first_death_context": {
+    "breakdown": [
+      {
+        "player": "OXY",
+        "agent": "jett",
+        "role": "Duelist",
+        "total": 134,
+        "rate": 31.5,
+        "attack_deaths": 70,
+        "defense_deaths": 64,
+        "top_weapon_died_to": "phantom"
+      },
+      {
+        "player": "mitch",
+        "agent": "skye",
+        "role": "Initiator",
+        "total": 75,
+        "rate": 17.6,
+        "attack_deaths": 40,
+        "defense_deaths": 35,
+        "top_weapon_died_to": "phantom"
+      },
+      {
+        "player": "neT",
+        "agent": "viper",
+        "role": "Controller",
+        "total": 74,
+        "rate": 17.4,
+        "attack_deaths": 37,
+        "defense_deaths": 37,
+        "top_weapon_died_to": "phantom"
+      },
+      {
+        "player": "v1c",
+        "agent": "omen",
+        "role": "Controller",
+        "total": 66,
+        "rate": 15.5,
+        "attack_deaths": 38,
+        "defense_deaths": 28,
+        "top_weapon_died_to": "phantom"
+      },
+      {
+        "player": "Xeppaa",
+        "agent": "killjoy",
+        "role": "Sentinel",
+        "total": 59,
+        "rate": 13.9,
+        "attack_deaths": 26,
+        "defense_deaths": 33,
+        "top_weapon_died_to": "phantom"
+      }
+    ],
+    "red_flags": [
+      {
+        "player": "neT",
+        "issue": "neT (viper) dying first often (74 times). Controllers should survive longer.",
+        "severity": "medium"
+      },
+      {
+        "player": "v1c",
+        "issue": "v1c (omen) dying first often (66 times). Controllers should survive longer.",
+        "severity": "medium"
+      },
+      {
+        "player": "Xeppaa",
+        "issue": "Xeppaa (killjoy) dies first 33 times on Defense. Over-aggressive peeking?",
+        "severity": "medium"
+      }
+    ],
+    "total_rounds": 425
+  },
+  "ultimate_impact": {
+    "by_agent": [
+      {
+        "agent": "Deadlock",
+        "uses": 36,
+        "wins": 22,
+        "conversion_rate": 61.1,
+        "players": [
+          "Xeppaa"
+        ]
+      },
+      {
+        "agent": "Omen",
+        "uses": 31,
+        "wins": 18,
+        "conversion_rate": 58.1,
+        "players": [
+          "v1c"
+        ]
+      },
+      {
+        "agent": "Skye",
+        "uses": 26,
+        "wins": 14,
+        "conversion_rate": 53.8,
+        "players": [
+          "mitch"
+        ]
+      },
+      {
+        "agent": "Raze",
+        "uses": 25,
+        "wins": 16,
+        "conversion_rate": 64.0,
+        "players": [
+          "OXY"
+        ]
+      },
+      {
+        "agent": "Killjoy",
+        "uses": 13,
+        "wins": 7,
+        "conversion_rate": 53.8,
+        "players": [
+          "Xeppaa"
+        ]
+      },
+      {
+        "agent": "Viper",
+        "uses": 12,
+        "wins": 6,
+        "conversion_rate": 50.0,
+        "players": [
+          "neT"
+        ]
+      },
+      {
+        "agent": "Sova",
+        "uses": 9,
+        "wins": 4,
+        "conversion_rate": 44.4,
+        "players": [
+          "mitch"
+        ]
+      },
+      {
+        "agent": "Neon",
+        "uses": 2,
+        "wins": 1,
+        "conversion_rate": 50.0,
+        "players": [
+          "neT"
+        ]
+      },
+      {
+        "agent": "Brimstone",
+        "uses": 2,
+        "wins": 2,
+        "conversion_rate": 100.0,
+        "players": [
+          "v1c"
+        ]
+      }
+    ],
+    "total_ults": 156,
+    "overall_conversion": 57.7,
+    "insights": []
+  },
+  "man_advantage": {
+    "situations": 205,
+    "wins": 150,
+    "conversion_rate": 73.2,
+    "is_strong": true,
+    "insight": "Strong closer: 73.2% conversion when getting first kill (5v4). Team capitalizes well on advantages."
+  },
+  "discipline": {
+    "untraded_deaths": 892,
+    "total_deaths": 1467,
+    "untraded_rate": 60.8,
+    "eco_rounds": 79,
+    "eco_wins": 41,
+    "eco_win_rate": 51.9,
+    "eco_threat": true,
+    "bonus_rounds": 18,
+    "bonus_wins": 8,
+    "bonus_conversion": 44.4,
+    "insights": {
+      "spacing": "Poor spacing: 60.8% untraded deaths. Isolate players for easy picks.",
+      "eco": "Dangerous eco threat: 51.9% eco win rate. Respect their low-buys.",
+      "bonus": "Bonus round conversion: 44.4%. Vulnerable in bonus rounds."
+    }
+  },
+  "side_metrics": {
+    "attack_rounds": 216,
+    "attack_wins": 112,
+    "attack_win_rate": 51.9,
+    "attack_kills": 727,
+    "attack_deaths": 777,
+    "attack_kd": 0.94,
+    "defense_rounds": 210,
+    "defense_wins": 105,
+    "defense_win_rate": 50.0,
+    "defense_kills": 737,
+    "defense_deaths": 690,
+    "defense_kd": 1.07
+  },
+  "combat_metrics": {
+    "trade_efficiency": 39.2,
+    "trade_kills": 575,
+    "trade_opportunities": 1467,
+    "multi_killers": [
+      {
+        "player": "OXY",
+        "2k": 61,
+        "3k": 27,
+        "4k": 8,
+        "5k": 1,
+        "total": 97
+      },
+      {
+        "player": "v1c",
+        "2k": 65,
+        "3k": 11,
+        "4k": 2,
+        "5k": 0,
+        "total": 78
+      },
+      {
+        "player": "Xeppaa",
+        "2k": 51,
+        "3k": 16,
+        "4k": 1,
+        "5k": 0,
+        "total": 68
+      },
+      {
+        "player": "neT",
+        "2k": 48,
+        "3k": 6,
+        "4k": 3,
+        "5k": 0,
+        "total": 57
+      },
+      {
+        "player": "mitch",
+        "2k": 43,
+        "3k": 10,
+        "4k": 3,
+        "5k": 0,
+        "total": 56
+      }
+    ],
+    "clutch_performers": [
+      {
+        "player": "Xeppaa",
+        "clutches_faced": 50,
+        "clutches_won": 12,
+        "clutch_rate": 24.0
+      },
+      {
+        "player": "neT",
+        "clutches_faced": 46,
+        "clutches_won": 10,
+        "clutch_rate": 21.7
+      },
+      {
+        "player": "OXY",
+        "clutches_faced": 37,
+        "clutches_won": 7,
+        "clutch_rate": 18.9
+      },
+      {
+        "player": "mitch",
+        "clutches_faced": 32,
+        "clutches_won": 7,
+        "clutch_rate": 21.9
+      },
+      {
+        "player": "v1c",
+        "clutches_faced": 50,
+        "clutches_won": 6,
+        "clutch_rate": 12.0
+      }
+    ],
+    "opening_duels": [
+      {
+        "player": "OXY",
+        "opening_wins": 82,
+        "opening_losses": 69,
+        "opening_duel_rate": 54.3
+      },
+      {
+        "player": "v1c",
+        "opening_wins": 39,
+        "opening_losses": 31,
+        "opening_duel_rate": 55.7
+      },
+      {
+        "player": "neT",
+        "opening_wins": 32,
+        "opening_losses": 47,
+        "opening_duel_rate": 40.5
+      },
+      {
+        "player": "Xeppaa",
+        "opening_wins": 28,
+        "opening_losses": 25,
+        "opening_duel_rate": 52.8
+      },
+      {
+        "player": "mitch",
+        "opening_wins": 24,
+        "opening_losses": 48,
+        "opening_duel_rate": 33.3
+      }
+    ],
+    "weapon_effectiveness": [
+      {
+        "weapon": "phantom",
+        "kills": 535,
+        "deaths": 558,
+        "kd_ratio": 0.96
+      },
+      {
+        "weapon": "vandal",
+        "kills": 392,
+        "deaths": 306,
+        "kd_ratio": 1.28
+      },
+      {
+        "weapon": "bulldog",
+        "kills": 89,
+        "deaths": 38,
+        "kd_ratio": 2.34
+      },
+      {
+        "weapon": "classic",
+        "kills": 86,
+        "deaths": 86,
+        "kd_ratio": 1.0
+      },
+      {
+        "weapon": "ghost",
+        "kills": 81,
+        "deaths": 75,
+        "kd_ratio": 1.08
+      },
+      {
+        "weapon": "sheriff",
+        "kills": 55,
+        "deaths": 86,
+        "kd_ratio": 0.64
+      },
+      {
+        "weapon": "stinger",
+        "kills": 44,
+        "deaths": 79,
+        "kd_ratio": 0.56
+      },
+      {
+        "weapon": "guardian",
+        "kills": 32,
+        "deaths": 50,
+        "kd_ratio": 0.64
+      },
+      {
+        "weapon": "outlaw",
+        "kills": 21,
+        "deaths": 26,
+        "kd_ratio": 0.81
+      },
+      {
+        "weapon": "shorty",
+        "kills": 18,
+        "deaths": 15,
+        "kd_ratio": 1.2
+      }
+    ],
+    "total_kills_analyzed": 2931
+  },
+  "pace_metrics": {
+    "style": "Slow/Late Execute",
+    "avg_plant_time": 110.0,
+    "histogram": {
+      "rush": {
+        "count": 0,
+        "percent": 0.0
+      },
+      "default": {
+        "count": 16,
+        "percent": 9.6
+      },
+      "late": {
+        "count": 150,
+        "percent": 90.4
+      }
+    },
+    "by_map": {
+      "haven": {
+        "avg_time": 115.2,
+        "rush_percent": 0.0,
+        "default_percent": 10.5,
+        "late_percent": 89.5,
+        "total_plants": 57
+      },
+      "corrode": {
+        "avg_time": 102.7,
+        "rush_percent": 0.0,
+        "default_percent": 9.1,
+        "late_percent": 90.9,
+        "total_plants": 22
+      },
+      "lotus": {
+        "avg_time": 107.7,
+        "rush_percent": 0.0,
+        "default_percent": 10.8,
+        "late_percent": 89.2,
+        "total_plants": 65
+      },
+      "icebox": {
+        "avg_time": 111.1,
+        "rush_percent": 0.0,
+        "default_percent": 0.0,
+        "late_percent": 100.0,
+        "total_plants": 17
+      },
+      "ascent": {
+        "avg_time": 85.8,
+        "rush_percent": 0.0,
+        "default_percent": 33.3,
+        "late_percent": 66.7,
+        "total_plants": 3
+      },
+      "bind": {
+        "avg_time": 143.1,
+        "rush_percent": 0.0,
+        "default_percent": 0.0,
+        "late_percent": 100.0,
+        "total_plants": 2
+      }
+    },
+    "attack_first_damage_avg": 89.4,
+    "defense_first_damage_avg": 92.8,
+    "total_plants_analyzed": 166
+  }
+}}
